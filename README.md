@@ -13,4 +13,5 @@ Note: this add-on is tested on The Hebrew University moodle and Tel Aviv Univers
   (OR you can Install it directly from mozilla: https://addons.mozilla.org/en-US/firefox/addon/moodlemassdownloader/)
 
 # Preview
-![preview](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/preview.png)
+![HUJI_preview](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/preview.png)
+![TAU_preview](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/TAUmoodle.png)
