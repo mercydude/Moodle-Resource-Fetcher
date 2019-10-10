@@ -1,5 +1,6 @@
 # Moodle-Resource-Fetcher
 A Firefox extension which helps students download all their course resource in a click of a button.
+(Created using javascript)
 
 # Installation
   1. Download to your local machine the file "moodlemassdownloader-1.1-fx.xpi".
