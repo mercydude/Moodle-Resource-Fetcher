@@ -1,10 +1,11 @@
 let btn = document.createElement("ul");
 const button_html = '<div><div class="mod-indent-outer"><div class="mod-indent"></div><div><div class="activityinstance"><a id="downloaderYoav" class="" onclick="" href="" download="a"><img src="https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/icon_download.png" class="iconlarge activityicon" alt=" " role="presentation"><span class="instancename">Download resources<span class="accesshide "> File</span></span></a> <span class="resourcelinkdetails"><font color="red">By Yoav Levy</font></span><img id="loadingyoav" style="display: none;" src="https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/buffering.gif" class="iconlarge activityicon" alt=" " role="presentation"></div></div></div></div>';
 btn.innerHTML = button_html;
-
+btn.hidden = true;
 document.getElementById("region-main").insertBefore(btn, document.getElementById("region-main").firstChild);
 
 uls = document.getElementsByTagName("ul");
+
 let foundIt;
 for (let i = 0; i < uls.length; i++) {
     if (uls[i].className === "topics")
@@ -45,9 +46,9 @@ for (let i = 0; i < allSections.length; i++) {
         }
     }
 }
-if (innerHtmlsList.length === 0)
+if (innerHtmlsList.length !== 0)
 {
-    btn.hidden = true;
+    btn.hidden = false;
 }
 
 let zip = new JSZip();
