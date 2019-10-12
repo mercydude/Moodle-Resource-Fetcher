@@ -1,5 +1,5 @@
 # Moodle-Resource-Fetcher
-A Firefox extension which helps students download all their course resource in a click of a button.
+A Firefox add-on (=extension) which helps students by downloading all their course resource in a click of a button.
 (Created using javascript)
 
 Note: this add-on is tested on The Hebrew University moodle and Tel Aviv University moodle.
