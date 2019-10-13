@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "MoodleMassDownloader",
-  "version": "1.1",
+  "version": "1.4",
 
   "description": "Adds a red border to all webpages matching mozilla.org.",
 
@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.ac.il/*"],
-      "js": ["FileSaver.js", "./Stuk-jszip-3109282/dist/jszip.js", "jszip-utils.js" , "mrf.js"],
+      "js": ["FileSaver.js", "jszip.js", "jszip-utils.js" , "mrf.js"],
       "run_at": "document_end"
     }
   ],
