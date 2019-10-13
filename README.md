@@ -15,4 +15,3 @@ Note: this add-on is tested on The Hebrew University moodle and Tel Aviv Univers
 # Preview
 ![HUJI_preview](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/preview.png)
 ![TAU_preview](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/TAUmoodle.png)
-
