@@ -6,7 +6,7 @@ Note: this add-on is tested on The Hebrew University moodle and Tel Aviv Univers
 
 # Installation
   1. Download the file ["moodlemassdownloader-1.4-fx.xpi"](https://github.com/norbit8/Moodle-Resource-Fetcher/blob/master/moodlemassdownloader-1.4-fx.xpi?raw=true) to your local machine.
-  2. Open "about:addons" in Firefox, click "Install Add-on From File..." and select the .xpi file from step 1.
+  2. On Firefox browser open the "about:addons", click "Install Add-on From File..." and select the .xpi file from step 1.
      ![Like this](https://raw.githubusercontent.com/norbit8/Moodle-Resource-Fetcher/master/imgs/explain.png)
   3. Have fun.
   
